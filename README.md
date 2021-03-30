@@ -1,4 +1,4 @@
-<img src="/logo_final.png" alt="banner" />
+<img src="/logo_final.png" alt="banner" style="background-color:black" />
 
 ### Welcome to My Github! 👋 ###
 My name is Utkarsh ✔️ and I'm often found here 🏠
