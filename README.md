@@ -49,7 +49,7 @@ My name is Utkarsh ✔️ and I'm often found here 🏠
 ---
 ### About ###
 
-3rd year Undergrad at IIT BHU currently working with
+Final year Undergrad at IIT BHU currently working with
 <ul>
   <li>Skilzen as a software-dev 👨‍💻</li> 
   <li> have previous experiences as data engineer in MedTourEasy </li>
